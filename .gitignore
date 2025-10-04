@@ -1,0 +1,12 @@
+.vscode/
+__pycache__/
+debug.py
+inwentory.py
+jakas.py
+main.py
+narzedzia.py
+praca_na_plikach.py
+pw.py
+tekst.txt
+test.py
+test_narzedzia.py
