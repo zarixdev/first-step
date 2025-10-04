@@ -1,4 +1,4 @@
-#!Python3
+#! Python3
 
 def collatz(number):
     if number % 2 == 0:
@@ -17,7 +17,7 @@ try:
         a = collatz(a)
 
 except ValueError:
-    print ("Podaj prawidłową liczbę")
+    print ("Podaj prawidłową liczbę: ")
 
 
 
