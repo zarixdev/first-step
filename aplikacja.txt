@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 to jest nasza druga apka
+=======
+to jest nasza pierwsza aplikacja ale nie druga
+>>>>>>> 8b9fe972083e83b9d7195491c8716bf0a17586cd
